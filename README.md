@@ -25,4 +25,4 @@
 
 
 ### 项目截图
-![screenshot](screenshot/hr1.png)
+![screenshot](screenshot/hr1.jpg)
