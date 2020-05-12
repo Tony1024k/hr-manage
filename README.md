@@ -23,5 +23,6 @@
 4.vue-router  
 5.vuex 
 
+
 ### 项目截图
 ![screenshot](screenshot/hr1.png)
